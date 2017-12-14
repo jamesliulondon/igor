@@ -1,0 +1,21 @@
+Datacenter: DC1
+===============
+Status=Up/Down
+|/ State=Normal/Leaving/Joining/Moving
+--  Address        Load       Tokens       Owns (effective)  Host ID                               Rack
+UN  10.137.12.25   11.73 GiB  256          32.5%             24ba541b-4970-4b03-a38c-25ad94af219b  RACK3
+UN  10.137.12.26   12.58 GiB  256          32.5%             577fd28b-bb97-43fa-a155-365a2ef7e735  RACK3
+UN  10.137.12.10   12.54 GiB  256          48.9%             a685644d-9cd6-4ab2-8069-67c637f3dfbf  RACK1
+UN  10.137.12.14   20.04 GiB  256          51.1%             d2d05500-8b9e-4576-a86e-a27a4c769562  RACK1
+UN  10.137.12.17   17.88 GiB  256          50.1%             406fb29f-8e33-4901-b132-57c57c5a3b61  RACK2
+UN  10.137.12.20   18.97 GiB  256          49.9%             423b10da-5df9-438c-a963-6e46f414531f  RACK2
+UN  10.137.12.22   19.02 GiB  256          35.1%             50452936-c515-4b5a-b4d0-ff7f01333544  RACK3
+Datacenter: DC2
+===============
+Status=Up/Down
+|/ State=Normal/Leaving/Joining/Moving
+--  Address        Load       Tokens       Owns (effective)  Host ID                               Rack
+UN  10.134.106.23  34.49 GiB  256          100.0%            c5e297e5-9c3e-496e-a68c-dfc2da618b7e  RACK2
+UN  10.134.106.17  30.76 GiB  256          100.0%            bb1b33a0-34b2-4f01-879f-a8775e30c197  RACK1
+UN  10.134.106.29  34.83 GiB  256          100.0%            5787f3fc-60c6-462c-8e35-d0acdec40352  RACK3
+
